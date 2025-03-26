@@ -27,5 +27,15 @@ namespace ContactList
             AddContactForm addForm = new AddContactForm();
             addForm.ShowDialog();
         }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
