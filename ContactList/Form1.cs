@@ -16,5 +16,16 @@ namespace ContactList
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAddContact_Click(object sender, EventArgs e)
+        {
+            AddContactForm addForm = new AddContactForm();
+            addForm.ShowDialog();
+        }
     }
 }
