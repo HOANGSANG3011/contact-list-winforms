@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\84974\\source\\repos\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\addcontactform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ContactList\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.Designer.cs",
+              "RelativeToolTip": "ContactList\\Form1.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:45:45.84Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -31,36 +48,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddContactForm.resx",
-              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\AddContactForm.resx",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.resx",
-              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\AddContactForm.resx",
-              "RelativeToolTip": "ContactList\\AddContactForm.resx",
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.resx",
+              "RelativeDocumentMoniker": "ContactList\\Form1.resx",
+              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.resx",
+              "RelativeToolTip": "ContactList\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-03-26T06:31:07.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddContactForm.cs",
-              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
+              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs",
+              "RelativeToolTip": "ContactList\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T04:17:43.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
+              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs [Design]",
+              "RelativeToolTip": "ContactList\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T03:02:11.127Z",
               "EditorCaption": " [Design]"
