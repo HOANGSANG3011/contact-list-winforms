@@ -107,15 +107,15 @@
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(214, 274);
+            this.txtEmail.Location = new System.Drawing.Point(122, 281);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(243, 20);
+            this.txtEmail.Size = new System.Drawing.Size(398, 20);
             this.txtEmail.TabIndex = 8;
             // 
             // lblEmail
             // 
             this.lblEmail.AutoSize = true;
-            this.lblEmail.Location = new System.Drawing.Point(144, 277);
+            this.lblEmail.Location = new System.Drawing.Point(41, 281);
             this.lblEmail.Name = "lblEmail";
             this.lblEmail.Size = new System.Drawing.Size(32, 13);
             this.lblEmail.TabIndex = 9;
