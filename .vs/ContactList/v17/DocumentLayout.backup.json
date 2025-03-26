@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\84974\\source\\repos\\ContactList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|c:\\users\\84974\\source\\repos\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BED900A2-CD2D-4966-A5C7-AB8FD4973B71}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
+              "ToolTip": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs",
+              "RelativeToolTip": "ContactList\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T04:17:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\84974\\source\\repos\\ContactList\\ContactList\\Form1.cs",
               "RelativeDocumentMoniker": "ContactList\\Form1.cs",
